@@ -22,7 +22,7 @@ Mỗi năm học một kho riêng: `Hoc_lieu_2026-2027`, `Hoc_lieu_2027-2028`, �
 
 ## Toán
 
-### Toán 10 – 30 bài
+### Toán 10 – 31 bài
 
 | # | Bài học | KHBD | Bản hoà nhập | Sơ đồ tư duy |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@ Mỗi năm học một kho riêng: `Hoc_lieu_2026-2027`, `Hoc_lieu_2027-2028`, �
 | 28 | KiemTraChuyenDe1 T12 | [Word](toan/lop10/KHBD/KHBD_TOAN10_KiemTraChuyenDe1_T12.docx) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/KHBD/KHBD_TOAN10_KiemTraChuyenDe1_T12.docx)) | [Word](toan/lop10/HoaNhap/KHBD_TOAN10_KiemTraChuyenDe1_T12_HoaNhap.docx) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/HoaNhap/KHBD_TOAN10_KiemTraChuyenDe1_T12_HoaNhap.docx)) | – |
 | 29 | Chuyên đề – Bài 3. Phương pháp quy nạp toán học | [Word](toan/lop10/KHBD/KHBD_TOAN10_CD2_Bai3_QuyNapToanHoc_T13-16.docx) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/KHBD/KHBD_TOAN10_CD2_Bai3_QuyNapToanHoc_T13-16.docx)) | [Word](toan/lop10/HoaNhap/KHBD_TOAN10_CD2_Bai3_QuyNapToanHoc_T13-16_HoaNhap.docx) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/HoaNhap/KHBD_TOAN10_CD2_Bai3_QuyNapToanHoc_T13-16_HoaNhap.docx)) | [PNG](toan/lop10/SoDoTuDuy/SoDoTuDuy_TOAN10_CD2_Bai3_QuyNapToanHoc_T13-16.png) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/SoDoTuDuy/SoDoTuDuy_TOAN10_CD2_Bai3_QuyNapToanHoc_T13-16.png)) |
 | 30 | Bài tập cuối chuyên đề 2 | [Word](toan/lop10/KHBD/KHBD_TOAN10_BaiTapCuoiChuyenDe2_T17.docx) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/KHBD/KHBD_TOAN10_BaiTapCuoiChuyenDe2_T17.docx)) | [Word](toan/lop10/HoaNhap/KHBD_TOAN10_BaiTapCuoiChuyenDe2_T17_HoaNhap.docx) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/HoaNhap/KHBD_TOAN10_BaiTapCuoiChuyenDe2_T17_HoaNhap.docx)) | [PNG](toan/lop10/SoDoTuDuy/SoDoTuDuy_TOAN10_BaiTapCuoiChuyenDe2_T17.png) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/SoDoTuDuy/SoDoTuDuy_TOAN10_BaiTapCuoiChuyenDe2_T17.png)) |
+| 31 | KiemTraChuyenDe2 T18 | [Word](toan/lop10/KHBD/KHBD_TOAN10_KiemTraChuyenDe2_T18.docx) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/KHBD/KHBD_TOAN10_KiemTraChuyenDe2_T18.docx)) | [Word](toan/lop10/HoaNhap/KHBD_TOAN10_KiemTraChuyenDe2_T18_HoaNhap.docx) ([Tải](https://raw.githubusercontent.com/Trangtu66/Hoc_lieu_2026-2027/main/toan/lop10/HoaNhap/KHBD_TOAN10_KiemTraChuyenDe2_T18_HoaNhap.docx)) | – |
 
 ### Toán 11 – 39 bài
 
@@ -193,4 +194,4 @@ Mỗi năm học một kho riêng: `Hoc_lieu_2026-2027`, `Hoc_lieu_2027-2028`, �
 
 - Tên file: `KHBD_<MÔN><Khối>_<Bài>_T<Tiết>.docx`, bản hoà nhập thêm `_HoaNhap`. Không có file gộp nhiều bài.
 - KHBD chỉ để giáo viên tham khảo, sử dụng trong nhà trường; khi dùng lại vui lòng ghi nguồn.
-- Cập nhật tự động: 22/11/2026 (script `kho_hoc_lieu.py`).
+- Cập nhật tự động: 23/11/2026 (script `kho_hoc_lieu.py`).
